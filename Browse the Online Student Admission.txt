@@ -1,0 +1,1 @@
+Browse the Online Student Admission System in a browser. i.e. http://localhost/online-admission-system-RITMAN/ (userand) http://localhost/online-admission-system-RITMAN/admin for the admin side.
